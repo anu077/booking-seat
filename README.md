@@ -3,4 +3,4 @@ USING HTML , CSS , JAVASCRIPT
 
 Available  , Reserve Seat
 
-Define price,time  no. of seats 
+Define price,time , no. of seats 
